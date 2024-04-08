@@ -343,3 +343,6 @@
 - address: 0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd
   name: Mantle
   symbol: jMNT
+- address: 0:a2cfb8756357e6c4f3939ef3d09be0e31855f6d548aeab3cb68154280a2ebf25
+  name: GODZI
+  symbol: GDZ
